@@ -1,0 +1,6 @@
+﻿  TamagochI course work.cpp
+C:\Users\marym\source\repos\TamagochI course work\GatKey.h(10,21): warning C4838:  преобразование из "int" в "SHORT" требует сужающего преобразования
+C:\Users\marym\source\repos\TamagochI course work\GatKey.h(10,23): warning C4838:  преобразование из "int" в "SHORT" требует сужающего преобразования
+C:\Users\marym\source\repos\TamagochI course work\Authorization.h(20,1): warning C4267:  =: преобразование из "size_t" в "char"; возможна потеря данных
+C:\Users\marym\source\repos\TamagochI course work\Authorization.h(21,16): warning C4018:  >=: несоответствие типов со знаком и без знака
+  TamagochI course work.vcxproj -> C:\Users\marym\source\repos\TamagochI course work\Debug\TamagochI course work.exe
